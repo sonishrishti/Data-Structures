@@ -5,7 +5,7 @@ Overflow condition for Stack1 will occur when my top pointer reaches (MAX/2) - 1
 Overflow condition for Stack2 will occur when my top pointer reaches (MAX/2).
 
 Underflow condition for Stack1 will occur when my top pointer points to - 1.
-Underflow condition for Stack1 will occur when my top pointer points to MAX.
+Underflow condition for Stack2 will occur when my top pointer points to MAX.
 */
 
 // Write a c program to implement two stacks in one array.
